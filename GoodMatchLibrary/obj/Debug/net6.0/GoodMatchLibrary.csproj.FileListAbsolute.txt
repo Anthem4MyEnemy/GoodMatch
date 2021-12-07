@@ -1,0 +1,12 @@
+C:\Users\Dietrich\Desktop\GoodMatch\GoodMatchLibrary\bin\Debug\net6.0\GoodMatchLibrary.deps.json
+C:\Users\Dietrich\Desktop\GoodMatch\GoodMatchLibrary\bin\Debug\net6.0\GoodMatchLibrary.dll
+C:\Users\Dietrich\Desktop\GoodMatch\GoodMatchLibrary\bin\Debug\net6.0\ref\GoodMatchLibrary.dll
+C:\Users\Dietrich\Desktop\GoodMatch\GoodMatchLibrary\bin\Debug\net6.0\GoodMatchLibrary.pdb
+C:\Users\Dietrich\Desktop\GoodMatch\GoodMatchLibrary\obj\Debug\net6.0\GoodMatchLibrary.csproj.AssemblyReference.cache
+C:\Users\Dietrich\Desktop\GoodMatch\GoodMatchLibrary\obj\Debug\net6.0\GoodMatchLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dietrich\Desktop\GoodMatch\GoodMatchLibrary\obj\Debug\net6.0\GoodMatchLibrary.AssemblyInfoInputs.cache
+C:\Users\Dietrich\Desktop\GoodMatch\GoodMatchLibrary\obj\Debug\net6.0\GoodMatchLibrary.AssemblyInfo.cs
+C:\Users\Dietrich\Desktop\GoodMatch\GoodMatchLibrary\obj\Debug\net6.0\GoodMatchLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Dietrich\Desktop\GoodMatch\GoodMatchLibrary\obj\Debug\net6.0\GoodMatchLibrary.dll
+C:\Users\Dietrich\Desktop\GoodMatch\GoodMatchLibrary\obj\Debug\net6.0\ref\GoodMatchLibrary.dll
+C:\Users\Dietrich\Desktop\GoodMatch\GoodMatchLibrary\obj\Debug\net6.0\GoodMatchLibrary.pdb

@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "GoodMatchLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/GoodMatchLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GoodMatchLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GoodMatchLibrary/1.0.0": {
+      "type": "project",
+      "path": "../GoodMatchLibrary/GoodMatchLibrary.csproj",
+      "msbuildProject": "../GoodMatchLibrary/GoodMatchLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "GoodMatchLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Dietrich\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Dietrich\\Desktop\\GoodMatch\\GoodMatchUI\\GoodMatchUI.csproj",
+      "projectName": "GoodMatchUI",
+      "projectPath": "C:\\Users\\Dietrich\\Desktop\\GoodMatch\\GoodMatchUI\\GoodMatchUI.csproj",
+      "packagesPath": "C:\\Users\\Dietrich\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Dietrich\\Desktop\\GoodMatch\\GoodMatchUI\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Dietrich\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\Dietrich\\Desktop\\GoodMatch\\GoodMatchLibrary\\GoodMatchLibrary.csproj": {
+              "projectPath": "C:\\Users\\Dietrich\\Desktop\\GoodMatch\\GoodMatchLibrary\\GoodMatchLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
